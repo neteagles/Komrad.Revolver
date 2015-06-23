@@ -45,6 +45,8 @@
     <Compile Include="Annotations\Actions\ConditionalAction.cs" />
     <Compile Include="Annotations\ConditionalAnnotation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SolutionTemplate.cs" />
+    <Compile Include="SolutionTemplateFactory.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
